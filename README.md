@@ -1,7 +1,7 @@
 # Slither
 Slither, a remake of the classic game, snake.
 
-To make the exe, run this command: 
+To make the exe, run this command(all commands in command prompt): 
 `python setup.py build`
 
 If it is not recnognized, use this:
