@@ -14,3 +14,5 @@ PS: Use
 `pip install -r requirements.txt`
 
 to install the requirements for the .py to be runnable and to make the .exe file.
+
+MAC USERS: use this link for making the .exe(.app)
